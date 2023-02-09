@@ -1,7 +1,6 @@
 Python - Hello, World
 
-In this project, I began practicing using the interpreter, printing text and variables, and indexing and slicing strings in Python.
-Function Prototypes 💾
+For this project , I startup the typical hello world theme using python
 
 Prototypes for functions written in this project:
 File 	Prototype
